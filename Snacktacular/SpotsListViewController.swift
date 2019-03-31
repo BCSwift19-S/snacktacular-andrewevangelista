@@ -21,6 +21,7 @@ class SpotsListViewController: UIViewController {
         tableView.dataSource = self
         
         
+        
         spots = Spots()
         spots.spotArray.append(Spot(name: "El Pelon", address: "Comm Ave", coordinate: CLLocationCoordinate2D(), averageRating: 0.0, numberOfReviews: 0, postingUserID: "", documentID: ""))
          spots.spotArray.append(Spot(name: "Shake Shack", address: "The Street - Chestnut Hill", coordinate: CLLocationCoordinate2D(), averageRating: 0.0, numberOfReviews: 0, postingUserID: "", documentID: ""))

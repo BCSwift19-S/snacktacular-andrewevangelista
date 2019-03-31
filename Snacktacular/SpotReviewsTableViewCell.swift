@@ -8,6 +8,7 @@
 
 import UIKit
 
+
 class SpotReviewsTableViewCell: UITableViewCell {
 
     @IBOutlet weak var reviewTitleLabel: UILabel!

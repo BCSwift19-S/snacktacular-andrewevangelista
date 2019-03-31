@@ -8,6 +8,7 @@
 
 import UIKit
 
+
 class SpotPhotosCollectionViewCell: UICollectionViewCell {
     @IBOutlet weak var photoImageView: UIImageView!
     

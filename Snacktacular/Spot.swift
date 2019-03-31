@@ -10,6 +10,7 @@ import Foundation
 import CoreLocation
 
 class Spot {
+    
     var name: String
     var address: String
     var coordinate: CLLocationCoordinate2D
