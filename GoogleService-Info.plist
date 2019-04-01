@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>942190238303-42b0tg2o3aec4rlde192uc29kv428atf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.942190238303-42b0tg2o3aec4rlde192uc29kv428atf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtSs7cUaw6NHy-TN9oYZycRqEqa0ac3YM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>942190238303</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.evangelista.Snacktacular</string>
+	<key>PROJECT_ID</key>
+	<string>snacktacular-6de55</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snacktacular-6de55.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:942190238303:ios:9f40f6f8bb6b3f3f</string>
+	<key>DATABASE_URL</key>
+	<string>https://snacktacular-6de55.firebaseio.com</string>
+</dict>
+</plist>
